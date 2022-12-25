@@ -7,9 +7,9 @@ body { background: #EFF3F4; font-family: -apple-system, BlinkMacSystemFont, "Seg
 
 .hero-body .container { max-width: 700px; }
 
-.hero-body .title { color: #fcfdfd !important; }
+.hero-body .title { color: black !important; }
 
-.hero-body .subtitle { color: #fcfdfd !important; padding-top: 2rem; line-height: 1.75; }
+.hero-body .subtitle { color: black !important; padding-top: 2rem; line-height: 1.75; }
 
 .features { padding: 5rem 0; }
 

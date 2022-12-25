@@ -11157,7 +11157,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 
 .hero.is-dark .subtitle a:not(.button),
 .hero.is-dark .subtitle strong {
-  color: #fff;
+  color: #000;
 }
 
 @media screen and (max-width: 1023px) {

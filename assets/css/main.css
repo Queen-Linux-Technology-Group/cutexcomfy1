@@ -1,22 +1,24 @@
 .hero-img { max-width: 250px; margin: 0 auto; }
 
-body { background-color: #23262a; }
+body { background-color: #ffe4cb; }
 
 body p strong { color: white; }
 
-.hero.is-dark { background-color: #23262a; }
+.hero.is-dark { background-color: #ffe4cb; }
 
-.hero.is-dark .navbar .navbar-brand .title { color: white; }
+.hero.is-dark .navbar .navbar-brand .title { color: black; }
 
-.hero.is-dark .navbar .navbar-item.has-dropdown { color: white; }
+.hero.is-dark .navbar .navbar-item.has-dropdown { color: black; }
 
 .hero.is-dark .navbar .navbar-dropdown { color: black; }
 
 .hero.is-dark .navbar .navbar-dropdown .navbar-item:hover { outline: 1px solid #cacccc; }
 
-.hero.is-dark .socials i { font-size: 20px; color: white; transition: all 0.2s ease-in-out; }
+.hero.is-dark .socials i { font-size: 20px; color: black; transition: all 0.2s ease-in-out; }
 
 .hero.is-dark .socials i:hover { transform: scale(1.2); }
+
+.hero.is-dark .subtitle { color: black; }
 
 .hero.is-dark .avatar { margin: 0 auto 1rem auto; max-width: 250px; max-height: 250px; border-radius: 100%; box-shadow: 0 4px 32px 0 black; outline: 2px solid white; }
 
